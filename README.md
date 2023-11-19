@@ -17,7 +17,7 @@ To get this project up and running on your local machine for development and tes
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/task-manager-app.git
+   git clone https://github.com/shub007pat/task-manager-app.git
 2. Navigate to the project directory:
    ```sh
    cd task-manager-app
